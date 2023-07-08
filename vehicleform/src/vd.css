@@ -1,0 +1,27 @@
+.navbar{
+ display: flex;
+ flex-direction: row;
+ padding: 5px; 
+}
+.heading{
+    margin-left:20%;
+}
+
+.navbuttons{
+    display: flex;
+    margin: 30px 5px ;
+
+}
+
+.topdetails{
+    /* margin:30px; */
+    display: flex;
+
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 30px;
+}
